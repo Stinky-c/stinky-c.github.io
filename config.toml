@@ -21,7 +21,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Bucky"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "Bucky's site filled with guides and tutorials"
     owner = "Bucky"
     keywords = "AAAAA"
     copyright = "CC BY-SA 4.0"
