@@ -72,8 +72,9 @@ After I finished the install and upgrade I migrated my stack.
     - [PiHole](https://pi-hole.net/)
         - [GH](https://github.com/pi-hole/pi-hole)
     - Portainer Agent
-    - [A Self Written Discord Bot](https://github.com/Stinky-c/DisBot)
-        - A rewrite should be soon to come
+    - [A Self Written Discord Bot](https://github.com/Stinky-c/DatBot)
+        - ~~A rewrite should be soon to come~~
+        - As of roughly 23/2/11 I had deployed the newly update bot, and update the URL on this page
 
 ## My Thoughts on the Tech
 
